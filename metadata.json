@@ -1,0 +1,6 @@
+{
+  "name": "Pixo Spark",
+  "description": "AI-Powered Digital Marketing Agency delivering world-class results worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
